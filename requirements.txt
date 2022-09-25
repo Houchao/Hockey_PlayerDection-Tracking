@@ -1,0 +1,26 @@
+# pip install -r requirements.txt
+
+# base ----------------------------------------
+
+matplotlib~=3.1.2
+numpy>=1.18.5
+opencv-python>=4.1.2
+Pillow
+PyYAML>=5.3.1
+scipy>=1.4.1
+torch>=1.7.0
+torchvision>=0.8.1
+tqdm>=4.41.0
+
+# plotting ------------------------------------
+
+seaborn>=0.11.0
+pandas~=1.2.0
+
+# deep_sort -----------------------------------
+
+easydict
+yaml~=0.1.7
+requests~=2.25.1
+tensorflow~=2.1.0
+scikit-learn~=0.24.2
